@@ -15,9 +15,6 @@ The objective was to understand the fundamental concepts behind GPT-style langua
 - **Framework:** PyTorch
 - **Environment:** Google Colab
 - **Training:** 5,000 iterations
-- ## Model Architecture
-
-![Mini-GPT Architecture](mini_gpt_architecture.png)
 
 ## Architecture
 
@@ -28,6 +25,9 @@ The model was implemented using the following components:
 3. **FeedForward:** Uses linear layers, GELU activation, and dropout.
 4. **TransformerBlock:** Combines attention and feed-forward layers with layer normalization and residual connections.
 5. **GPTLanguageModel:** Combines token and positional embeddings, two Transformer blocks, final layer normalization, and a language-model output head.
+ ## Model Architecture
+
+![Mini-GPT Architecture](mini_gpt_architecture.png)
 
 ## Model Specifications
 
