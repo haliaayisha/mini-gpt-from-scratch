@@ -15,6 +15,9 @@ The objective was to understand the fundamental concepts behind GPT-style langua
 - **Framework:** PyTorch
 - **Environment:** Google Colab
 - **Training:** 5,000 iterations
+- ## Model Architecture
+
+![Mini-GPT Architecture](mini_gpt_architecture.png)
 
 ## Architecture
 
