@@ -27,7 +27,7 @@ The model was implemented using the following components:
 5. **GPTLanguageModel:** Combines token and positional embeddings, two Transformer blocks, final layer normalization, and a language-model output head.
  ## Model Architecture
 
-![Mini-GPT Architecture](mini_gpt_architecture.png)
+![Mini-GPT Architecture](Mini-GPT Architecture Flowchart.png)
 
 ## Model Specifications
 
