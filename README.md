@@ -1,7 +1,5 @@
-# Mini-gpt-from-scratch
-A beginner-friendly GPT-style language model built from scratch using PyTorch and trained on the Tiny Shakespeare dataset. Implements token embeddings, positional embeddings, causal self-attention, multi-head attention, Transformer blocks, and text generation
-
 # Mini-GPT: Character-Level Language Model from Scratch
+
 
 This project implements and trains a small GPT-style character-level language model from scratch using **PyTorch** and the **Tiny Shakespeare** dataset.
 
